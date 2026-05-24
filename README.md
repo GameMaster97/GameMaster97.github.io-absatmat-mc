@@ -4,10 +4,10 @@
 
 AbsatmatMC is a peaceful SMP hosted on minehut. I don't know why I'm making this sound like an ad when this is purely for listing rules of the server. The server is owned by GameMaster9997 on Minecraft, and it is Java and Bedrock crossplay. The server has a 4-hour daily time limit so preferably play together.
 
-**World Difficulty:** Normal
-**Keep Inventory:** Definitely Not
-**Version:** Java 1.20.6 Paper
-**End Dimension Open:** Not yet (lemme disable it)
+* **World Difficulty:** Normal
+* **Keep Inventory:** Definitely Not
+* **Version:** Java 1.20.6 Paper
+* **End Dimension Open:** Not yet (lemme disable it)
 
 ### How to join (Java)
 
