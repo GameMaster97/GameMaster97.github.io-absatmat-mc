@@ -6,6 +6,7 @@ AbsatmatMC is a peaceful SMP hosted on minehut. I don't know why I'm making this
 
 **World Difficulty:** Normal
 **Keep Inventory:** Definitely Not
+**Version:** Java 1.20.6 Paper
 **End Dimension Open:** Not yet (lemme disable it)
 
 ### How to join (Java)
